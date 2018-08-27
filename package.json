@@ -1,0 +1,20 @@
+{
+  "name": "TwoServersApp",
+  "version": "1.0.0",
+  "description": "Express.js Work",
+  "main": "serverOne.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyotigupta329/TwoServersApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyotigupta329/TwoServersApp/issues"
+  },
+  "homepage": "https://github.com/jyotigupta329/TwoServersApp#readme"
+}
